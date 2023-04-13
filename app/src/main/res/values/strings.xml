@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">fragment dialog</string>
+    <string name="welcome_to_take_it_cheesy_restaurant">Welcome to Take It Cheesy Restaurant</string>
+    <string name="click_here_to_rate_us">Click here to rate us</string>
+    <string name="your_rating_matters">Your Rating Matters</string>
+    <string name="excellent">Excellent</string>
+    <string name="average">Average</string>
+    <string name="not_very_good">Not Very Good</string>
+    <string name="bad">Bad</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="about_us">About Us</string>
+    <string name="our_menu">Our Menu</string>
+    <string name="main_courses">Main Courses</string>
+    <string name="side_dishes">Side Dishes</string>
+    <string name="item_2">item 2</string>
+    <string name="options">Options</string>
+    <string name="our_locations">Our Locations</string>
+    <string name="what_would_you_like_us_to_add_to_our_menue">What would you like us to add to our menue?</string>
+    <string name="what_would_you_like_to_add_to_our_menu">What would you like to add to our menu?</string>
+    <string name="enter_your_favorite">Enter Your Favorite</string>
+    <string name="what_iwould_you_like_to_add_to_our_menu">What iwould you like to add to our menu?</string>
+    <string name="response">Response</string>
+    <string name="done">Done</string>
+</resources>
